@@ -1,0 +1,6 @@
+{
+  "name": "Trans Worldwide - Logística Intel·ligent",
+  "description": "Plataforma corporativa de solucions globals de transport i logística d'avantguarda per a l'empresa fictícia Trans Worldwide (projecte d'àmbit estudiantil).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
